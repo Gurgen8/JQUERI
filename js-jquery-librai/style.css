@@ -1,0 +1,35 @@
+
+#myTable td{
+    border:2px solid #ccc;
+    padding:20px;
+  
+}
+
+h2{
+    display: none;
+}
+
+.vernagir{
+    color:red;
+    font-size:32px;
+    display: block;
+   
+}
+
+
+.div{
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.stop{
+    margin-left:100px;
+    border:2px solid red;
+    padding:5px;
+    border-radius:20px
+    
+}
